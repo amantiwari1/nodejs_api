@@ -57,5 +57,5 @@ dist
 .pnp.*
 
 /node_modules
-
+/images
 yarn.lock
